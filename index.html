@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Assignment</title>
+    <link rel="stylesheet" href="./assets/css/style.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div class="container">
+      <form
+        id="contact"
+        class="form"
+        action="./assets/php/process.php"
+        method="post"
+        enctype="multipart/form-data"
+        autocomplete="off"
+      >
+        <h3 style="text-align: center">Window Registration Form</h3>
+        <fieldset>
+          <input
+            class="mt-3"
+            type="text"
+            placeholder="Title"
+            name="title"
+            id="title"
+            required
+          />
+        </fieldset>
+        <fieldset>
+          <input
+            class="mt-3"
+            type="text"
+            placeholder="Description"
+            name="description"
+            id="description"
+            required
+          />
+        </fieldset>
+        <fieldset>
+          <input
+            class="mt-5"
+            type="file"
+            name="img"
+            value=""
+            id="img"
+            required
+          />
+        </fieldset>
+        <fieldset>
+          <button class="mt-5" type="submit" name="upload" id="submit">
+            Submit
+          </button>
+        </fieldset>
+      </form>
+    </div>
+  </body>
+</html>
