@@ -23,4 +23,4 @@ After creating the database you have to click on Import button and then choose t
 #### Step 5
 Then you can get all the tables into your database.
 #### Step 6
-After that you can register with the Title, Description and Image. After clicking on submit button you will redirect to the homepage and you will see latest six entries. And also you can check the all registered users data on homepage.
+After that open the index.html file (localhost/assignment_name/index.html) then you can register with the Title, Description and Image. After clicking on submit button you will redirect to the homepage and you will see latest six entries. And also you can check the all registered users data on homepage.
