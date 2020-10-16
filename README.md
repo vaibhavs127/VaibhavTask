@@ -11,7 +11,7 @@ This assignment consists of user Registration. User must register with Title , D
 #### XAMPP Server
 
 ## How to run this assignment
-For developing this project I used the XAMPP Server. You can also use WAMP or LAMP server.
+For developing this project I used the XAMPP Server. You can also use WAMP or LAMP server. 1st download this repository zip file and then copy all this data into the C:\xampp\htdocs folder.
 #### Step 1
 Start the XAMPP server( Apache and MySQL ) and run the index.html file on browser(localhost/assignment_name/index.html)
 #### Step 2
