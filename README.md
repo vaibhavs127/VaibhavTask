@@ -17,7 +17,7 @@ Start the XAMPP server( Apache and MySQL ) and run the index.html file on browse
 #### Step 2
 After running the code you will get the registration page. For registartion you have to create the databse first. For that you have to type localhost on to the browser then click on phpMyAdmin.
 #### Step 3
-You will get the phpMyAdmin panel on that you have to create the database with name "test".
+You will get the phpMyAdmin panel on that you have to create the database with database name "test".
 #### Step 4
 After creating the database you have to click on Import button and then choose the file test.sql. (Note: The test.sql file is located in this VaibhavTask folder into that there is another folder DatabaseFile into that folder test.sql file is there use this file for importing the data on to the database)
 #### Step 5
