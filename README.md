@@ -19,7 +19,7 @@ After running the code you will get the registration page. For registartion you 
 #### Step 3
 You will get the phpMyAdmin panel on that you have to create the database with database name "test".
 #### Step 4
-After creating the database you have to click on Import button and then choose the file test.sql. (Note: The test.sql file is located in this VaibhavTask folder into that there is another folder DatabaseFile into that folder test.sql file is there use this file for importing the data on to the database)
+After creating the database you have to click on Import button and then choose the file test.sql (Note: The test.sql file is located in this VaibhavTask folder into that there is another folder DatabaseFile into that folder test.sql file is there use this file for importing the data on to the database)
 #### Step 5
 Then you can get all the tables into your database.
 #### Step 6
